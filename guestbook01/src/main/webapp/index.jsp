@@ -20,16 +20,30 @@
 		</tr>
 	</table>
 	</form>
+		
 	<br>
 	<table width=510 border=1>
 		<tr>
 			<td>[1]</td>
 			<td>안대혁</td>
-			<td>2013-01-15</td>
-			<td><a href="/guestbook01/deleteform.jsp">삭제</a></td>
+			<td></td>
+			<td><a href="/guestbook01/deleteform.jsp?no=">삭제</a></td>
 		</tr>
 		<tr>
-			<td colspan=4>안녕하세요</td>
+			<td colspan=4>안녕하세요?</td>
+		</tr>
+	</table>
+	
+	<br>
+	<table width=510 border=1>
+		<tr>
+			<td>[2]</td>
+			<td>안대혁</td>
+			<td>2013-01-15</td>
+			<td><a href="/guestbook01/deleteform.jsp?no=">삭제</a></td>
+		</tr>
+		<tr>
+			<td colspan=4>안녕하세요??</td>
 		</tr>
 	</table>
 </body>
