@@ -32,7 +32,6 @@
 	<br>
 	<%
 		for(GuestbookVo vo : list) {
-			
 			int no = list.size() - list.indexOf(vo) ;
 	%>
 	<table width=510 border=1>
