@@ -1,4 +1,4 @@
-<%@page import="java.util.List"%>
+W<%@page import="java.util.List"%>
 <%@page import="com.douzone.guestbook.dao.GuestbookDao"%>
 <%@page import="com.douzone.guestbook.vo.GuestbookVo"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"

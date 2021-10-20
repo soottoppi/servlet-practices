@@ -14,3 +14,6 @@ delete
 	from guestbook
 where no= 1
 	and password='1234';
+
+select * from user;
+select * from guestbook;
